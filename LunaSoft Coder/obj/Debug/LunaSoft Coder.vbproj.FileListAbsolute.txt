@@ -1,0 +1,12 @@
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft Coder.vbprojResolveAssemblyReference.cache
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft Coder.vbproj.GenerateResource.Cache
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\bin\Debug\LunaSoft Write.exe.config
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\bin\Debug\LunaSoft Write.exe
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\bin\Debug\LunaSoft Write.pdb
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\bin\Debug\LunaSoft Write.xml
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft_Write.About.resources
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft_Write.Form1.resources
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft_Write.Resources.resources
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft Write.exe
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft Write.xml
+C:\Users\SamSoft\Documents\Visual Studio 2017\LunaSoft Coder\LunaSoft Coder\obj\Debug\LunaSoft Write.pdb
